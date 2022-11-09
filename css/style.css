@@ -1,5 +1,20 @@
 h1{
-    color:rgba(13, 0, 49, 0.836)
+    color:rgba(13, 0, 49, 0.836);
+    margin-bottom: 140px;
+}
+
+.box{
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.box:hover{
+    border: 1px solid white;
+}
+p{
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2em;
 }
 
 .yellow{
